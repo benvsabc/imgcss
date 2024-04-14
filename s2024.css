@@ -82,7 +82,7 @@ ul, ol, menu {
     width: 130px;
     border: none;
     margin-top: -10px;
-    background: url(/api/588daili-logo.svg) no-repeat;
+    background: url(https://raw.gitmirror.com/benvsabc/imgcss/main/588daili-logo.svg) no-repeat;
     background-repeat: no-repeat;
     background-position: center;
     background-size: 130px;
@@ -123,7 +123,7 @@ a.n:link, a.n:visited, a.n:active {
     height: 1px;
     margin: 0 auto;
     padding: 0;
-    background: url(../image/bg-line1.png) top left repeat-x;
+    background: url(https://raw.gitmirror.com/benvsabc/imgcss/main/bg-line1.png) top left repeat-x;
 }
 
 
