@@ -24,7 +24,7 @@ a.b:hover {color:#FF6600;}
 .property li {float:left;width:30%;height:24px;line-height:24px;overflow:hidden;}
 .foot {background:#F1F1F1;padding:20px;line-height:32px;}
 .foot i,.top i {font-style:normal;color:#999999;padding:0 8px;}
-.pos {padding:16px 16px 16px 32px;height:24px;line-height:24px;background:url('../image/pos.png') no-repeat 6px 18px;font-size:14px;}
+.pos {padding:16px 16px 16px 32px;height:24px;line-height:24px;background:url('https://raw.gitmirror.com/benvsabc/imgcss/main/pos.png') no-repeat 6px 18px;font-size:14px;}
 .pos div {float:right;}
 .pos i {font-style:normal;font-weight:bold;color:#444444;padding:0 6px;font-family:simsun;}
 .pos em {font-style:normal;color:#999999;padding:0 10px;font-size:12px;}
