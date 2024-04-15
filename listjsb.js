@@ -1,0 +1,1 @@
+(function(){$(function(){$('.js-tab-title span').click(function(){var $this=$(this);var i=$this.index();$this.addClass('active').siblings().removeClass('active');$this.closest('.js-tab-cut').find('.js-tab-conter>li').eq(i).show().siblings().hide();});})}())
